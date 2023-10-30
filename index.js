@@ -18,4 +18,6 @@ option.forEach(e => {
         cookie.set(e.attributes.getNamedItem("name").value, e.value)
         console.log(cookie.raw())
     })
-}); 
+});
+
+await translationSetup(true)
