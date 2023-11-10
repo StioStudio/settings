@@ -13,5 +13,11 @@
     },
     "Prefered theme: ": {
         "message": "Prefered theme: "
+    },
+    "(Not working yet)": {
+        "message": "(Not working yet)"
+    },
+    "Last Updated: ": {
+        "message": "Last Updated: "
     }
 }

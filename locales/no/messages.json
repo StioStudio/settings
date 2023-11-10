@@ -1,17 +1,23 @@
 {
-  "This page uses cookies. By using this page you agree to that stio.studio can use cookies freely.": {
-      "message": "Denne siden bruker informasjonskapsler. Med å bruke denne siden så godtar du at stio.studio kan bruke informasjonskapsler fritt."
-  },
-  "Back to ": {
-      "message": "Tilbake til "
-  },
-  "Main Page": {
-      "message": "Hovudside"
-  },
-  "Prefered language: ": {
-      "message": "Foretrukket Språk: "
-  },
-  "Prefered theme: ": {
-      "message": "Foretrukket tema: "
-  }
+    "This page uses cookies. By using this page you agree to that stio.studio can use cookies freely.": {
+        "message": "Denne siden bruker informasjonskapsler. Med å bruke denne siden så godtar du at stio.studio kan bruke informasjonskapsler fritt."
+    },
+    "Back to ": {
+        "message": "Tilbake til "
+    },
+    "Main Page": {
+        "message": "Hovudside"
+    },
+    "Prefered language: ": {
+        "message": "Foretrukket Språk: "
+    },
+    "Prefered theme: ": {
+        "message": "Foretrukket tema: "
+    },
+    "(Not working yet)": {
+        "message": "(Fungerer ikkje enda)"
+    },
+    "Last Updated: ": {
+        "message": "Sist Oppdatert: "
+    }
 }
