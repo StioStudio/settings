@@ -8,7 +8,7 @@ let options = {
 let option = document.querySelectorAll(".options")
 // console.log(option)
 
-console.log(options)
+// console.log(options)
 for (let i = 0; i < Object.keys(options).length; i++) {
     let rem = cookie.get(Object.keys(options)[i])
     options[Object.keys(options)[i]] = rem
